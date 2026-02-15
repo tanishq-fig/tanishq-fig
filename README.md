@@ -61,15 +61,18 @@ while learning to build them end-to-end with full stack development.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishq-fig&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishq-fig&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-fig&layout=compact&theme=tokyonight&cache_seconds=86400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanishq-fig&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanishq-fig&theme=tokyonight" />
 
 </div>
+
 
 
 
