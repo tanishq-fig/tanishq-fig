@@ -1,30 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tanishq%20Chaudhari&fontAlign=50&fontAlignY=38&color=0:0f0f0f,100:1a1a1a&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tanishq%20Chaudhari&fontAlign=50&fontAlignY=38&color=0:0f172a,100:020617&fontColor=ffffff" />
 
-### UI Designer • Learning Full Stack
+# Tanishq Chaudhari
+### UI Designer • Full Stack Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&color=AAAAAA&center=true&vCenter=true&width=720&lines=Designing+digital+experiences;Learning+to+engineer+what+I+design;UI+%E2%86%92+Product+%E2%86%92+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1300&color=94A3B8&center=true&vCenter=true&width=700&lines=Designing+intentional+interfaces;Learning+to+engineer+products;UI+meets+logic+meets+systems" />
 
 </div>
 
 ---
 
-# ▌Profile
+## ▌Identity
 
-I design clean, intentional interfaces and I’m learning to build them end-to-end.
+I design digital interfaces that feel **calm, precise, and purposeful**.
 
-My goal is simple:
+Currently expanding into full stack development to build  
+complete products — not just screens.
 
-> Design like a creator  
-> Build like an engineer  
-> Think like a product designer
-
-I’m focused on merging aesthetics with real functionality.
+I care about clarity, structure, and experience.
 
 ---
 
-# ▌Toolset
+## ▌Design Philosophy
+
+> Simplicity is not minimal.
+> It is clarity without noise.
+
+Good design disappears.
+The experience remains.
+
+---
+
+## ▌Tools & Stack
 
 <div align="center">
 
@@ -34,7 +42,7 @@ I’m focused on merging aesthetics with real functionality.
 
 ---
 
-# ▌GitHub Activity
+## ▌GitHub Overview
 
 <div align="center">
 
@@ -44,37 +52,23 @@ I’m focused on merging aesthetics with real functionality.
 
 ---
 
-# ▌Current Direction
+## ▌Current Focus
 
-- Advanced UI systems in Figma  
-- Frontend architecture & interaction  
+- Interface systems & UI architecture  
+- Modern frontend development  
 - Full stack foundations  
-- Product-driven thinking  
+- Product thinking  
 
-I’m building toward designing and shipping complete digital products.
-
----
-
-# ▌Now Playing
-
-<div align="center">
-
-<img src="https://i.scdn.co/image/ab67616d0000b273c6c1e8a0a0c1d2e3f4a5b6c7" width="180"/>
-
-<br><br>
-
-**i love ui hate you — Playboi Carti**
-
-</div>
+Building toward designing and shipping real digital products.
 
 ---
 
-# ▌Links
+## ▌Presence
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/ctrldmaster/) •  
-[Behance](https://www.behance.net/iimaginedesigns) •  
+[LinkedIn](https://www.linkedin.com/in/ctrldmaster/)  
+[Behance](https://www.behance.net/iimaginedesigns)  
 [Instagram](https://www.instagram.com/tanishq.dw)
 
 </div>
@@ -83,9 +77,9 @@ I’m building toward designing and shipping complete digital products.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1a1a,100:0f0f0f" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,100:0f172a" />
 
-Design quietly.  
-Build boldly.
+Design with intention.  
+Build with intelligence.
 
 </div>
