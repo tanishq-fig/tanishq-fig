@@ -1,31 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Tanishq%20Chaudhari&fontSize=48&color=0:0f0f0f,100:1c1c1c&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tanishq%20Chaudhari&fontAlign=50&fontAlignY=38&color=0:0f0f0f,100:1a1a1a&fontColor=ffffff" />
 
-### UI Designer • Full Stack Learner
+### UI Designer • Learning Full Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&color=BBBBBB&center=true&vCenter=true&width=700&lines=Designing+intentional+digital+experiences;Learning+to+build+what+I+design;UI+meets+engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&color=AAAAAA&center=true&vCenter=true&width=720&lines=Designing+digital+experiences;Learning+to+engineer+what+I+design;UI+%E2%86%92+Product+%E2%86%92+Systems" />
 
 </div>
 
 ---
 
-## ▌About
+# ▌Profile
 
-I design interfaces that feel **quiet, precise, and intentional**.  
-Currently expanding into full stack development to bridge  
-design and engineering — turning ideas into real products.
+I design clean, intentional interfaces and I’m learning to build them end-to-end.
 
-I care about:
+My goal is simple:
 
-- Elegant UI systems  
-- Clean architecture  
-- Thoughtful interaction  
-- Real usability  
+> Design like a creator  
+> Build like an engineer  
+> Think like a product designer
+
+I’m focused on merging aesthetics with real functionality.
 
 ---
 
-## ▌Tools & Stack
+# ▌Toolset
 
 <div align="center">
 
@@ -35,7 +34,7 @@ I care about:
 
 ---
 
-## ▌GitHub Overview
+# ▌GitHub Activity
 
 <div align="center">
 
@@ -45,25 +44,24 @@ I care about:
 
 ---
 
-## ▌Current Focus
-
-> Building the foundation to design **and** engineer  
-> complete digital products.
+# ▌Current Direction
 
 - Advanced UI systems in Figma  
-- Modern frontend architecture  
-- Full stack fundamentals  
-- Product-driven development  
+- Frontend architecture & interaction  
+- Full stack foundations  
+- Product-driven thinking  
+
+I’m building toward designing and shipping complete digital products.
 
 ---
 
-## ▌Now Playing
+# ▌Now Playing
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Playboi_Carti_-_Whole_Lotta_Red.png" width="160"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273c6c1e8a0a0c1d2e3f4a5b6c7" width="180"/>
 
-<br>
+<br><br>
 
 **i love ui hate you — Playboi Carti**
 
@@ -71,12 +69,12 @@ I care about:
 
 ---
 
-## ▌Connect
+# ▌Links
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/ctrldmaster/)  
-[Behance](https://www.behance.net/iimaginedesigns)  
+[LinkedIn](https://www.linkedin.com/in/ctrldmaster/) •  
+[Behance](https://www.behance.net/iimaginedesigns) •  
 [Instagram](https://www.instagram.com/tanishq.dw)
 
 </div>
@@ -85,9 +83,9 @@ I care about:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=90&section=footer&color=0:1c1c1c,100:0f0f0f" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1a1a,100:0f0f0f" />
 
-“Good design feels effortless.  
-Great engineering makes it possible.”
+Design quietly.  
+Build boldly.
 
 </div>
