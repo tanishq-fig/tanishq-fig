@@ -65,11 +65,12 @@ while learning to build them end-to-end with full stack development.
 
 <div align="center">
 
-![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishq-fig&show_icons=true&theme=tokyonight&border_radius=15)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanishq-fig&show_icons=true&theme=tokyonight&border_radius=15" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-fig&layout=compact&theme=tokyonight&border_radius=15)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanishq-fig&layout=compact&theme=tokyonight&border_radius=15" />
 
 </div>
+
 
 ---
 
