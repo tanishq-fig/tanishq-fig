@@ -1,85 +1,97 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Tanishq%20Chaudhari&fontAlign=50&fontAlignY=38&color=0:0f172a,100:020617&fontColor=ffffff" />
+# ✨ Tanishq Chaudhari ✨
+### 🎨 UI Designer • 🚀 Full Stack Learner
 
-# Tanishq Chaudhari
-### UI Designer • Full Stack Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Designing+beautiful+interfaces;Learning+full+stack+development;Turning+ideas+into+experiences;Obsessed+with+clean+UI" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=1300&color=94A3B8&center=true&vCenter=true&width=700&lines=Designing+intentional+interfaces;Learning+to+engineer+products;UI+meets+logic+meets+systems" />
+---
+
+</div>
+
+## 🌌 About Me
+
+```diff
++ UI designer who loves aesthetics
++ Learning full stack development step by step
++ Passionate about creative digital experiences
++ Figma addict
++ Future product builder
+```
+
+I design interfaces that feel **smooth, modern, and alive**  
+while learning to build them end-to-end with full stack development.
+
+---
+
+## 🎯 Current Focus
+
+- 🎨 Advanced UI/UX in Figma
+- ⚡ Frontend frameworks
+- 🧠 Full stack architecture
+- 🌍 Real world projects
+
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-FF4C4C?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-000000?style=for-the-badge&logo=adobe&logoColor=white)
+
+### 💻 Full Stack Journey
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Database](https://img.shields.io/badge/Databases-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ctrldmaster/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iimaginedesigns)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanishq.dw)
 
 </div>
 
 ---
 
-## ▌Identity
-
-I design digital interfaces that feel **calm, precise, and purposeful**.
-
-Currently expanding into full stack development to build  
-complete products — not just screens.
-
-I care about clarity, structure, and experience.
-
----
-
-## ▌Design Philosophy
-
-> Simplicity is not minimal.
-> It is clarity without noise.
-
-Good design disappears.
-The experience remains.
-
----
-
-## ▌Tools & Stack
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nodejs,mongodb,git,vscode&theme=dark" />
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishq-fig&show_icons=true&theme=tokyonight&border_radius=15)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-fig&layout=compact&theme=tokyonight&border_radius=15)
 
 </div>
 
 ---
 
-## ▌GitHub Overview
+## 🧠 Creative Philosophy
 
-<div align="center">
+> “Design is intelligence made visible.”
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishq-fig&theme=github_dark" />
-
-</div>
-
----
-
-## ▌Current Focus
-
-- Interface systems & UI architecture  
-- Modern frontend development  
-- Full stack foundations  
-- Product thinking  
-
-Building toward designing and shipping real digital products.
+I believe great products happen when  
+**design meets engineering.**
 
 ---
 
-## ▌Presence
+## 🌀 Visitor Counter
 
-<div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/ctrldmaster/)  
-[Behance](https://www.behance.net/iimaginedesigns)  
-[Instagram](https://www.instagram.com/tanishq.dw)
-
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tanishq-fig.tanishq-fig)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,100:0f172a" />
+### ⚡ Building • Designing • Learning • Repeating
 
-Design with intention.  
-Build with intelligence.
+⭐ Follow the journey ⭐
 
 </div>
