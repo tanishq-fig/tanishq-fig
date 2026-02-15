@@ -1,39 +1,39 @@
-<!-- ================= CYBERPUNK PROFILE START ================= -->
+<!-- ===================== MAX CYBER PROFILE ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Tanishq%20Chaudhari&fontAlign=50&fontAlignY=40&color=0:00F7FF,50:8A2BE2,100:FF00FF&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Tanishq%20Chaudhari&fontAlign=50&fontAlignY=38&color=0:00F7FF,50:8A2BE2,100:FF00FF&fontColor=ffffff&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;UI+DESIGN+MODULE+LOADED;FULL+STACK+TRAINING+ACTIVE;CREATIVITY+LEVEL:+MAX;WELCOME+TO+THE+CYBER+PROFILE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;CYBER+UI+DESIGNER+ONLINE;FULL+STACK+TRAINING+ACTIVE;CREATIVITY+LEVEL:+MAXIMUM;WELCOME+TO+THE+GRID" />
 
 </div>
 
 ---
 
-## 🧠 CYBER TERMINAL
+## 🧠 CYBER TERMINAL CORE
 
 ```diff
-+ User: Tanishq Chaudhari
-+ Role: UI Designer
-+ Status: Learning Full Stack
-+ Interface Engine: Figma
-+ Mode: Cyberpunk Active
-+ Reality Sync: Stable
++ USER: Tanishq Chaudhari
++ ROLE: UI Designer
++ STATUS: Full Stack Learning
++ INTERFACE ENGINE: Figma
++ MODE: Cyberpunk Overdrive
++ ENERGY LEVEL: ∞
 ```
 
 ---
 
-## 🌐 HOLOGRAM TECH GRID
+## 🌐 HOLOGRAM TECH MATRIX
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nodejs,mongodb,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,react,nodejs,mongodb,git,vscode,github&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 CYBER STATS CORE
+## 📊 NEURAL GITHUB CORE
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 
 ---
 
-## 🐍 NEON CONTRIBUTION SNAKE
+## 🐍 CYBER CONTRIBUTION SERPENT
 
 <div align="center">
 
@@ -55,11 +55,26 @@
 
 </div>
 
-*(Snake auto-animates when GitHub Actions run — don’t worry if static now)*
+---
+
+## 🎵 CYBER AUDIO SIGNAL
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NOW%20PLAYING-i%20love%20ui%20hate%20you%20%E2%80%94%20Playboi%20Carti-00F7FF?style=for-the-badge&logo=spotify&logoColor=black" />
+
+</div>
+
+```diff
++ AUDIO STREAM CONNECTED
++ TRACK LOCKED: i love ui hate you
++ ARTIST: Playboi Carti
++ SIGNAL STRENGTH: ██████████ 100%
+```
 
 ---
 
-## 👁 GLOWING VISITOR COUNTER
+## 👁 VISITOR SCANNER
 
 <div align="center">
 
@@ -69,17 +84,32 @@
 
 ---
 
-## 🎵 CYBER SIGNAL
+## 🌌 CYBER PHILOSOPHY
 
-> Currently transmitting creative frequencies  
-> UI x Engineering x Future Products
+> Design the interface.  
+> Engineer the future.  
+> Live inside the system.
+
+---
+
+## 🔗 NETWORK LINKS
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ctrldmaster/)
+[![Behance](https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iimaginedesigns)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tanishq.dw)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF00FF,50:8A2BE2,100:00F7FF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:FF00FF,50:8A2BE2,100:00F7FF" />
+
+### ⚡ END OF TRANSMISSION ⚡
 
 </div>
 
-<!-- ================= CYBERPUNK PROFILE END ================= -->
+<!-- ===================== END CYBER PROFILE ===================== -->
