@@ -1,32 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Tanishq%20Chaudhari&fontSize=48&color=0:0f0f0f,100:1c1c1c&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Tanishq%20Chaudhari&fontSize=48&color=0:0f0f0f,100:1c1c1c&fontColor=ffffff" />
 
 ### UI Designer • Full Stack Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&color=AAAAAA&center=true&vCenter=true&width=650&lines=Designing+intentional+digital+experiences;Learning+to+build+what+I+design;UI+meets+engineering" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1200&color=BBBBBB&center=true&vCenter=true&width=700&lines=Designing+intentional+digital+experiences;Learning+to+build+what+I+design;UI+meets+engineering" />
 
 </div>
 
 ---
 
-## About
+## ▌About
 
-I design interfaces that feel **quiet, precise, and intentional**.
-
+I design interfaces that feel **quiet, precise, and intentional**.  
 Currently expanding into full stack development to bridge  
 design and engineering — turning ideas into real products.
 
-My focus is simple:
+I care about:
 
-- Elegant UI
-- Clean systems
-- Thoughtful interaction
-- Real-world usability
+- Elegant UI systems  
+- Clean architecture  
+- Thoughtful interaction  
+- Real usability  
 
 ---
 
-## Tools & Stack
+## ▌Tools & Stack
 
 <div align="center">
 
@@ -36,7 +35,7 @@ My focus is simple:
 
 ---
 
-## GitHub Overview
+## ▌GitHub Overview
 
 <div align="center">
 
@@ -46,7 +45,10 @@ My focus is simple:
 
 ---
 
-## Selected Focus
+## ▌Current Focus
+
+> Building the foundation to design **and** engineer  
+> complete digital products.
 
 - Advanced UI systems in Figma  
 - Modern frontend architecture  
@@ -55,18 +57,26 @@ My focus is simple:
 
 ---
 
-## Now Playing
-
-🎵 *i love ui hate you — Playboi Carti*
-
----
-
-## Connect
+## ▌Now Playing
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/ctrldmaster/) •
-[Behance](https://www.behance.net/iimaginedesigns) •
+<img src="https://upload.wikimedia.org/wikipedia/en/8/8e/Playboi_Carti_-_Whole_Lotta_Red.png" width="160"/>
+
+<br>
+
+**i love ui hate you — Playboi Carti**
+
+</div>
+
+---
+
+## ▌Connect
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/ctrldmaster/)  
+[Behance](https://www.behance.net/iimaginedesigns)  
 [Instagram](https://www.instagram.com/tanishq.dw)
 
 </div>
